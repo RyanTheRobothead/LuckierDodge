@@ -10,12 +10,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (3 days ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (4 days ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
-- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 week ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
+- [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 week ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (2 weeks ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (2 weeks ago)
+- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A MADSci module for the Hudson SOLO liquid handler (1 month ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
-- [AD-SDL/ur_module](https://github.com/AD-SDL/ur_module) - A repository for UR module which includes UR driver, and ROS packages. (2 months ago)
 
 ### ✍ My recent writing and projects
 
