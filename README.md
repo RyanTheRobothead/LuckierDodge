@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit is a ROS 2 Jazzy diagnostics and remote operations toolkit with SOVD style REST API. Runtime discovery, introspection, faults, secure access. (today)
+- [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit is a ROS 2 diagnostics and remote operations toolkit with SOVD style REST API. Runtime discovery, introspection, faults, secure access. (today)
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul  (2 days ago)
 - [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats. (6 days ago)
 - [strongdm/attractor](https://github.com/strongdm/attractor) - nlspec of StrongDM&#39;s Attractor, a non-interactive Coding Agent sufficient for use in a Software Factory (6 days ago)
