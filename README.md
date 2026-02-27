@@ -6,6 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (today)
 - [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (4 days ago)
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 weeks ago)
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (3 weeks ago)
@@ -15,7 +16,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 month ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (1 month ago)
 - [AD-SDL/sciclops_module](https://github.com/AD-SDL/sciclops_module) - A MADSci node module for interfacing with the Hudson Robotics Sciclops Platecrane (1 month ago)
-- [AD-SDL/hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) - A MADSci module for the Hudson SOLO liquid handler (1 month ago)
 
 ### ✍ My recent writing and projects
 
