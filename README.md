@@ -51,7 +51,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [dmcgady1](https://github.com/dmcgady1)
 - [dominob101](https://github.com/dominob101)
 - [Floresi0211](https://github.com/Floresi0211)
-- [OcDo-Lab](https://github.com/OcDo-Lab)
+- [elx-toxic](https://github.com/elx-toxic)
 - [muhsansattar](https://github.com/muhsansattar)
 - [AntonioViscomi](https://github.com/AntonioViscomi)
 - [beniroquai](https://github.com/beniroquai)
