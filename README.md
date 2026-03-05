@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (3 days ago)
-- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (5 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (4 days ago)
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (6 days ago)
 - [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (1 week ago)
 - [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (3 weeks ago)
-- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 weeks ago)
+- [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (4 weeks ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 month ago)
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 month ago)
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (2 days ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (3 days ago)
-- [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform. (5 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (3 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (4 days ago)
+- [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform. (6 days ago)
 - [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit is a ROS 2 diagnostics and remote operations toolkit with SOVD style REST API. Runtime discovery, introspection, faults, secure access. (2 weeks ago)
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul  (2 weeks ago)
 - [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats. (3 weeks ago)
