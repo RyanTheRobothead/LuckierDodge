@@ -6,12 +6,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 day ago)
-- [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (2 days ago)
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (6 days ago)
+- [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 days ago)
+- [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (3 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 week ago)
 - [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 week ago)
 - [AD-SDL/liconic_module](https://github.com/AD-SDL/liconic_module) -  (1 week ago)
-- [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (4 weeks ago)
+- [AD-SDL/epoch2_module](https://github.com/AD-SDL/epoch2_module) - A module for controlling the Epoch2 from WEI (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [AD-SDL/.github](https://github.com/AD-SDL/.github) -  (1 month ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (5 days ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (6 days ago)
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (6 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 week ago)
 - [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform. (1 week ago)
 - [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit is a ROS 2 diagnostics and remote operations toolkit with SOVD style REST API. Runtime discovery, introspection, faults, secure access. (2 weeks ago)
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul  (3 weeks ago)
