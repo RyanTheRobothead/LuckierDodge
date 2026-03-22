@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 week ago)
 - [SamuelSchlesinger/chalk](https://github.com/SamuelSchlesinger/chalk) - My working kit to make math YouTube videos with AI assistance. (1 week ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform. (3 weeks ago)
 - [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit is a ROS 2 diagnostics and remote operations toolkit with SOVD style REST API. Runtime discovery, introspection, faults, secure access. (1 month ago)
 - [systeminit/swamp](https://github.com/systeminit/swamp) - Stinemates, Watson, Adam, Mahir, Paul  (1 month ago)
-- [rennf93/fastapi-guard](https://github.com/rennf93/fastapi-guard) - A security library for FastAPI that provides middleware to control IPs, log requests, and detect penetration attempts. It integrates seamlessly with FastAPI to offer robust protection against various security threats. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
