@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (today)
 - [norma-core/norma-core](https://github.com/norma-core/norma-core) - Physical Operations Platform (3 days ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 days ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress (3 weeks ago)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (3 weeks ago)
 - [0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper) - A sub-micrometer 3D motion control plattform. (4 weeks ago)
-- [selfpatch/ros2_medkit](https://github.com/selfpatch/ros2_medkit) - ros2_medkit - diagnostics gateway for ROS 2 robots. Faults, live data, operations, scripts, locking, triggers, and OTA updates via REST API. No SSH, no custom tooling. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
