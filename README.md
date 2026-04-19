@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (5 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (6 days ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (2 weeks ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (3 weeks ago)
@@ -36,7 +36,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (2 weeks ago)
 - [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (3 weeks ago)
 - [norma-core/norma-core](https://github.com/norma-core/norma-core) - Physical Operations Platform (3 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (3 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 weeks ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [SamuelSchlesinger/chalk](https://github.com/SamuelSchlesinger/chalk) - My working kit to make math YouTube videos with AI assistance. (1 month ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (1 month ago)
