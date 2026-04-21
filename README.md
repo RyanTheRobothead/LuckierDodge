@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (1 week ago)
+- [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (2 weeks ago)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (2 weeks ago)
 - [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (3 weeks ago)
-- [norma-core/norma-core](https://github.com/norma-core/norma-core) - Physical Operations Platform (3 weeks ago)
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 weeks ago)
+- [norma-core/norma-core](https://github.com/norma-core/norma-core) - Physical Operations Platform (4 weeks ago)
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [SamuelSchlesinger/chalk](https://github.com/SamuelSchlesinger/chalk) - My working kit to make math YouTube videos with AI assistance. (1 month ago)
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi (1 month ago)
