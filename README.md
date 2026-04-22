@@ -8,7 +8,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 week ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
-- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (2 weeks ago)
+- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (3 weeks ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (3 weeks ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 month ago)
