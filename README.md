@@ -6,11 +6,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 day ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (2 days ago)
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 week ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (3 weeks ago)
-- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (4 weeks ago)
+- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (1 month ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 month ago)
@@ -32,12 +32,12 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (today)
-- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (2 days ago)
-- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (2 days ago)
+- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (1 day ago)
+- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (3 days ago)
+- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (3 days ago)
 - [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (2 weeks ago)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
-- [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (4 weeks ago)
+- [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (1 month ago)
 - [norma-core/norma-core](https://github.com/norma-core/norma-core) - Physical Operations Platform (1 month ago)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
