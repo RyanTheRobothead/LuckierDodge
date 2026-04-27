@@ -6,8 +6,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (2 days ago)
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 week ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (3 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (3 weeks ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (1 month ago)
@@ -24,7 +24,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [How to Communicate with an Arduino from Docker](https://ryandlewis.dev/posts/howtoarduinodocker) (5 years ago)
 - [How to Install and Use Docker in WSL2](https://ryandlewis.dev/posts/howtowsldocker) (4 years ago)
 - [Introducing DM&#39;s Log: Supplemental](https://ryandlewis.dev/posts/ttrpg/introducingdmslog) (4 years ago)
-- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026) (3 years ago)
+- [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026) (4 years ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027) (3 years ago)
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch) (3 years ago)
 - [🧪 The Workflow Execution Interface (WEI)](https://ryandlewis.dev/projects/wei) (2 years ago)
@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (today)
-- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (today)
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (1 day ago)
-- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (3 days ago)
-- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (3 days ago)
+- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (1 day ago)
+- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (1 day ago)
+- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (2 days ago)
+- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (4 days ago)
+- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (4 days ago)
 - [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (2 weeks ago)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
 - [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (1 month ago)
