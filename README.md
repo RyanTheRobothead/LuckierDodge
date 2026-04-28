@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (3 days ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 days ago)
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (2 weeks ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (3 weeks ago)
@@ -15,7 +15,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (1 month ago)
 - [AD-SDL/barty_module](https://github.com/AD-SDL/barty_module) - This is the initial repository for Barty, the low cost liquid handler. (1 month ago)
-- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (1 month ago)
+- [AD-SDL/colorpicker_experiment](https://github.com/AD-SDL/colorpicker_experiment) - The Colorpicker benchmarking experiment used in the RPL&#39;s SDL (2 months ago)
 
 ### ✍ My recent writing and projects
 
@@ -32,14 +32,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (today)
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (today)
-- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (1 day ago)
-- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (1 day ago)
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (2 days ago)
-- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (4 days ago)
-- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (4 days ago)
-- [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (2 weeks ago)
+- [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (1 day ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 day ago)
+- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (2 days ago)
+- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (2 days ago)
+- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (3 days ago)
+- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (5 days ago)
+- [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (5 days ago)
+- [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (3 weeks ago)
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
 - [openUC2/openUC2-OT2-PlateGripper](https://github.com/openUC2/openUC2-OT2-PlateGripper) - Gripper for th eopentrons (1 month ago)
 
