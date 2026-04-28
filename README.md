@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (today)
 - [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (today)
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (1 day ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 day ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (5 days ago)
 - [zlite/plate-gripper](https://github.com/zlite/plate-gripper) - Plate gripper end effector for SO-101 robot arm (5 days ago)
 - [fabiansteiner/OpenValve](https://github.com/fabiansteiner/OpenValve) - 3D-printable pinch valve for irrigation and sensor-driven liquid control. (3 weeks ago)
-- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (3 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
