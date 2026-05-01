@@ -32,6 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (today)
+- [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (today)
 - [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (2 days ago)
 - [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (2 days ago)
 - [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (3 days ago)
@@ -40,8 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 days ago)
 - [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (5 days ago)
 - [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (5 days ago)
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (6 days ago)
-- [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
