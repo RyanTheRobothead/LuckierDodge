@@ -6,10 +6,10 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (6 days ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 week ago)
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 weeks ago)
-- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (4 weeks ago)
+- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (1 month ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (1 month ago)
 - [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 month ago)
@@ -32,15 +32,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (1 day ago)
-- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (1 day ago)
-- [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (2 days ago)
-- [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (2 days ago)
-- [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (3 days ago)
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (3 days ago)
-- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (4 days ago)
-- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (4 days ago)
-- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (5 days ago)
+- [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (2 days ago)
+- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (2 days ago)
+- [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (3 days ago)
+- [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (3 days ago)
+- [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (4 days ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 days ago)
+- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (5 days ago)
+- [vektorious/hpi_smart_plants](https://github.com/vektorious/hpi_smart_plants) -  (5 days ago)
+- [azu/dockerfile-pin](https://github.com/azu/dockerfile-pin) - A CLI tool for digest pinning — adds @sha256:&lt;digest&gt; to Dockerfile, docker-compose.yml, and GitHub Actions to prevent supply chain attacks. (6 days ago)
 - [machineagency/POSE26](https://github.com/machineagency/POSE26) - This repo contains resources to prepare for the 2026 POSE workshop. Not intended to be used by participants! (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
