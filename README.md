@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics (today)
 - [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - 🐼 open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.  (2 days ago)
 - [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (3 days ago)
 - [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (3 days ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (6 days ago)
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (1 week ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 week ago)
-- [MaggieAppleton/lodestone](https://github.com/MaggieAppleton/lodestone) - A research project exploring how language models can help us think more, not less.  (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
