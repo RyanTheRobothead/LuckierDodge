@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (today)
+- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (1 day ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 week ago)
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (3 weeks ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 weeks ago)
@@ -32,14 +32,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics (today)
-- [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - 🐼 open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.  (2 days ago)
-- [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (3 days ago)
-- [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (3 days ago)
-- [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (5 days ago)
-- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (5 days ago)
-- [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (6 days ago)
-- [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (6 days ago)
+- [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics (1 day ago)
+- [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - 🐼 open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.  (3 days ago)
+- [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (4 days ago)
+- [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (4 days ago)
+- [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (6 days ago)
+- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (6 days ago)
+- [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (1 week ago)
+- [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (1 week ago)
 - [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (1 week ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 week ago)
 
