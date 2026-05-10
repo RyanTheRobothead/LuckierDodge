@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [gebruder/wirken](https://github.com/gebruder/wirken) - The switchboard for the agent era. Per-channel isolation, encrypted credential vault, per-session hash-chained audit log. Single static Rust binary. (today)
 - [mech-lang/mech](https://github.com/mech-lang/mech) - 🦾 Mech is a programming language for building data-driven systems like robots, games, and interfaces. Start here!  (today)
 - [Phylliade/awesome-machine-learning-robotics](https://github.com/Phylliade/awesome-machine-learning-robotics) - A curated list of resources about Machine Learning for Robotics (6 days ago)
 - [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - 🐼 open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.  (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (1 week ago)
 - [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (1 week ago)
 - [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (1 week ago)
-- [machineagency/jubilee](https://github.com/machineagency/jubilee) - jubilee source files; for the docs, see: (1 week ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
