@@ -39,7 +39,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (1 week ago)
 - [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (1 week ago)
 - [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (1 week ago)
-- [asimovinc/asimov-v1](https://github.com/asimovinc/asimov-v1) - v1 of Asimov, an open-source humanoid robot  (1 week ago)
+- [asimovinc/asimov-1](https://github.com/asimovinc/asimov-1) - v1 of Asimov, an open-source humanoid robot  (1 week ago)
 - [FlorianBauer/ot2-controller](https://github.com/FlorianBauer/ot2-controller) - A SiLA 2 compliant controller for an Opentrons OT-2 liquid handling robot. (1 week ago)
 - [BAMresearch/wcso](https://github.com/BAMresearch/wcso) - This repository hosts the Wet-Chemical Syntheses (WeChemSyn) Ontology (WCSO) that semantically represents the wet-chemical synthesis in Self-Driving Laboratories (SDLs) for nano- and advanced materials that is based on the MSE mid-level PMD Core Ontology (PMDco). (1 week ago)
 
