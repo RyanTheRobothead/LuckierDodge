@@ -7,15 +7,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 ### 💻 Stuff I've been working on
 
 - [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
+- [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (today)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (1 week ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (2 weeks ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (1 month ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (1 month ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (1 month ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (2 months ago)
-- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 months ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (2 months ago)
+- [AD-SDL/camera_module](https://github.com/AD-SDL/camera_module) - Python driver for interfacing with the cameras in the SDL (2 months ago)
 
 ### ✍ My recent writing and projects
 
