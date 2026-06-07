@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (4 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (1 week ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 week ago)
 - [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (2 weeks ago)
@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux (today)
 - [jtenniswood/espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel (6 days ago)
 - [toeverything/awesome-affine](https://github.com/toeverything/awesome-affine) - 😎 Awesome lists about all kinds of interesting topics around AFFiNE (3 weeks ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [chirpz-ai/pandaprobe](https://github.com/chirpz-ai/pandaprobe) - open source agent engineering platform: traces, evals, and metrics to debug and improve your AI agents. Integrates with LangGraph, CrewAI, Claude Agent SDK, and more.  (1 month ago)
 - [dexmate-ai/omniteleop](https://github.com/dexmate-ai/omniteleop) -  (1 month ago)
 - [pkooij/open-arms-mini](https://github.com/pkooij/open-arms-mini) - open-arms-mini: cheap human like teleoperation device that supports human in the loop corrections (1 month ago)
-- [ORNL/DataFed](https://github.com/ORNL/DataFed) - A Federated Scientific Data Management System (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
