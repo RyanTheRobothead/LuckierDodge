@@ -45,7 +45,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 🤓 Some fellow nerds who follow me!
 
-- [seckinyasar](https://github.com/seckinyasar)
 - [yumiaura](https://github.com/yumiaura)
 - [S4IL21](https://github.com/S4IL21)
 - [kmcgads](https://github.com/kmcgads)
@@ -55,5 +54,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Floresi0211](https://github.com/Floresi0211)
 - [muhsansattar](https://github.com/muhsansattar)
 - [AntonioViscomi](https://github.com/AntonioViscomi)
+- [beniroquai](https://github.com/beniroquai)
 
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
