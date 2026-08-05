@@ -35,7 +35,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 week ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (2 weeks ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (3 weeks ago)
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Disposable Development Environments for AI Agents (1 month ago)
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Auditable workspaces for AI coding agent (1 month ago)
 - [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4&#43; (1 month ago)
 - [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux (1 month ago)
 - [jtenniswood/espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel (2 months ago)
