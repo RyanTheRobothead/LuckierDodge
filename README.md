@@ -38,7 +38,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Integrated sandbox for coding agents. Browser, dependencies, dev server, and workspace in one disposable environment. Local-first. No hosted sandbox. No SaaS account required. (1 month ago)
 - [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4&#43; (2 months ago)
 - [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux (2 months ago)
-- [jtenniswood/espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel (2 months ago)
+- [jtenniswood/EspControl](https://github.com/jtenniswood/EspControl) - Esphome based smart home control panel (2 months ago)
 - [toeverything/awesome-affine](https://github.com/toeverything/awesome-affine) - 😎 Awesome lists about all kinds of interesting topics around AFFiNE (2 months ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (2 months ago)
 - [gebruder/wirken](https://github.com/gebruder/wirken) - The enterprise gateway for autonomous agents. Identity management, per-channel isolation, credential vault, per-session tamper-evident audit log. (3 months ago)
