@@ -27,14 +27,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [The Bandoleers Session 026](https://ryandlewis.dev/posts/ttrpg/thebandoleers026) (4 years ago)
 - [The Bandoleers Session 027](https://ryandlewis.dev/posts/ttrpg/thebandoleers027) (4 years ago)
 - [How to Call a Service from a ROS2 Launch File](https://ryandlewis.dev/posts/callserviceinros2launch) (4 years ago)
-- [🧪 The Workflow Execution Interface (WEI)](https://ryandlewis.dev/projects/wei) (2 years ago)
+- [🧪 The Workflow Execution Interface (WEI)](https://ryandlewis.dev/projects/wei) (3 years ago)
 - [🦑 The Modular Autonomous Discovery for Science (MADSci) Framework](https://ryandlewis.dev/projects/madsci) (2 years ago)
 
 ### ⭐ Things I've starred lately
 
-- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (2 days ago)
-- [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (4 days ago)
-- [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (3 weeks ago)
+- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (3 days ago)
+- [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (5 days ago)
+- [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (4 weeks ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (4 weeks ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 month ago)
 - [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Auditable sandbox for coding agents. Browser, dependencies, dev server, and workspace in one disposable environment. Local-first. No hosted sandbox. No SaaS account required. (1 month ago)
