@@ -14,7 +14,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (3 months ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 months ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (4 months ago)
-- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (4 months ago)
+- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (5 months ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (5 months ago)
 
 ### ✍ My recent writing and projects
@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (6 days ago)
+- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (1 week ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (1 week ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
