@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (today)
 - [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (1 week ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (1 week ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4&#43; (2 months ago)
 - [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux (2 months ago)
 - [jtenniswood/espcontrol](https://github.com/jtenniswood/espcontrol) - Esphome based smart home control panel (2 months ago)
-- [toeverything/awesome-affine](https://github.com/toeverything/awesome-affine) - 😎 Awesome lists about all kinds of interesting topics around AFFiNE (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
