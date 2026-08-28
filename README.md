@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (today)
-- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (1 day ago)
+- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (1 day ago)
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (2 days ago)
 - [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (1 week ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (1 week ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
