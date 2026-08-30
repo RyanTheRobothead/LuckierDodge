@@ -32,14 +32,14 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (2 days ago)
-- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (3 days ago)
+- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (3 days ago)
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (4 days ago)
 - [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (1 week ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (2 weeks ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 month ago)
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~5× faster and ~80% less peak memory than headless Chromium. (1 month ago)
+- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Secure, auditable browser for AI agents. Pure Rust, no Chromium or V8. ~5× faster and ~80% less peak memory than headless Chromium. (2 months ago)
 - [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4&#43; (2 months ago)
 - [k3d3/claude-desktop-linux-flake](https://github.com/k3d3/claude-desktop-linux-flake) - Nix Flake for Claude Desktop on Linux (2 months ago)
 
