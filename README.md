@@ -11,7 +11,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 months ago)
 - [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (3 months ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (3 months ago)
-- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (3 months ago)
+- [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (4 months ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 months ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (5 months ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (5 months ago)
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (4 days ago)
-- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (5 days ago)
+- [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (5 days ago)
+- [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (6 days ago)
 - [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (2 weeks ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (2 weeks ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
