@@ -15,7 +15,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 months ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (5 months ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (5 months ago)
-- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (5 months ago)
+- [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (6 months ago)
 
 ### ✍ My recent writing and projects
 
@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (1 day ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (2 days ago)
 - [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (1 week ago)
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (1 week ago)
 - [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (2 weeks ago)
-- [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (2 weeks ago)
+- [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (3 weeks ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 month ago)
