@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [jyn514/maintainers-guide-to-ai](https://github.com/jyn514/maintainers-guide-to-ai) - a book about how to use AI responsibly and well for software projects (today)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (3 days ago)
 - [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (1 week ago)
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 month ago)
 - [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Fast, security-first headless browser for AI agents. Pure Rust, no Chromium or V8. Built for scraping, web testing, and red teaming, with direct HTTP traffic control and auditable sessions. (2 months ago)
-- [libriscv/godot-sandbox](https://github.com/libriscv/godot-sandbox) - In-editor scripting and sandboxing for Godot 4.4&#43; (3 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
