@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [hmans/beans](https://github.com/hmans/beans) - A CLI-based, flat-file issue tracker for humans and robots. 🤖 (today)
 - [jyn514/maintainers-guide-to-ai](https://github.com/jyn514/maintainers-guide-to-ai) - a book about how to use AI responsibly and well for software projects (1 day ago)
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (4 days ago)
 - [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (1 week ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light (1 month ago)
-- [h5i-dev/h5i](https://github.com/h5i-dev/h5i) - Fast, security-first headless browser for AI agents. Built for automation, red teaming, web testing, and scraping, with direct HTTP traffic control and auditable sessions. Pure Rust, no Chromium or V8. (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
