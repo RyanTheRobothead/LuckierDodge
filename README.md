@@ -32,11 +32,11 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [jyn514/maintainers-guide-to-ai](https://github.com/jyn514/maintainers-guide-to-ai) - a book about how to use AI responsibly and well for software projects (today)
-- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (3 days ago)
+- [jyn514/maintainers-guide-to-ai](https://github.com/jyn514/maintainers-guide-to-ai) - a book about how to use AI responsibly and well for software projects (1 day ago)
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring (4 days ago)
 - [kejadlen/ketchup](https://github.com/kejadlen/ketchup) -  (1 week ago)
 - [fzakaria/selfdb](https://github.com/fzakaria/selfdb) -  (1 week ago)
-- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (2 weeks ago)
+- [DRMacIver/downwards](https://github.com/DRMacIver/downwards) -  (3 weeks ago)
 - [beeminder/road](https://github.com/beeminder/road) - Beebrain and Visual Graph Editor (3 weeks ago)
 - [cactus-compute/cactus-hybrid](https://github.com/cactus-compute/cactus-hybrid) - On-device models that know when they&#39;re wrong: every answer carries a confidence score for cloud handoff. (1 month ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. (1 month ago)
