@@ -6,13 +6,13 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 week ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 weeks ago)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 month ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (3 months ago)
-- [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (3 months ago)
+- [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (4 months ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (4 months ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (4 months ago)
-- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (4 months ago)
+- [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (5 months ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (5 months ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (5 months ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (6 months ago)
@@ -32,16 +32,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) -  (1 day ago)
-- [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (1 day ago)
-- [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (4 days ago)
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (5 days ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (5 days ago)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (5 days ago)
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard. (5 days ago)
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby. (5 days ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (5 days ago)
-- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc. (5 days ago)
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) -  (2 days ago)
+- [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (2 days ago)
+- [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (5 days ago)
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (6 days ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (6 days ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (6 days ago)
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard. (6 days ago)
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby. (6 days ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (6 days ago)
+- [wizarrrr/wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc. (6 days ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
