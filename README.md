@@ -14,7 +14,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (4 months ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (5 months ago)
 - [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (5 months ago)
-- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (5 months ago)
+- [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (6 months ago)
 - [AD-SDL/ot2_module](https://github.com/AD-SDL/ot2_module) - MADSci-powered Node Module for integrating Opentrons devices into an Autonomous Laboratory (6 months ago)
 
 ### ✍ My recent writing and projects
@@ -32,9 +32,9 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) -  (3 days ago)
-- [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (3 days ago)
-- [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (6 days ago)
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) -  (4 days ago)
+- [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (4 days ago)
+- [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (1 week ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (1 week ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 week ago)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 week ago)
