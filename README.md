@@ -32,7 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (5 days ago)
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (6 days ago)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (3 weeks ago)
 - [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (3 weeks ago)
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (3 weeks ago)
