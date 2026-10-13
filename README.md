@@ -32,16 +32,16 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (6 days ago)
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (1 week ago)
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (3 weeks ago)
 - [keltokhy/jgrep](https://github.com/keltokhy/jgrep) - grep, but the pattern is a description. Filters lines by meaning with TypeSafe&#39;s Jev decision model: ~200 ms and a thousandth of a cent per line. (3 weeks ago)
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (3 weeks ago)
-- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (3 weeks ago)
-- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (3 weeks ago)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (3 weeks ago)
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard. (3 weeks ago)
-- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby. (3 weeks ago)
-- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (3 weeks ago)
+- [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (4 weeks ago)
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (4 weeks ago)
+- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (4 weeks ago)
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard. (4 weeks ago)
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby. (4 weeks ago)
+- [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby. (4 weeks ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
