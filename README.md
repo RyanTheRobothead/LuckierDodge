@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (today)
 - [KriVaTri/ESPHome-Update-Manager](https://github.com/KriVaTri/ESPHome-Update-Manager) - ESPHome device update manager for Home Assistant (1 week ago)
 - [kejadlen/pro-tacts](https://github.com/kejadlen/pro-tacts) -  (1 week ago)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (3 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (1 month ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 month ago)
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 month ago)
-- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
