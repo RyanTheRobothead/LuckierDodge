@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 day ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 day ago)
 - [RyanTheRobothead/schedule_bot](https://github.com/RyanTheRobothead/schedule_bot) - Discord bot for scheduling TTRPG / game nights (1 day ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (5 months ago)
@@ -45,7 +45,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 🤓 Some fellow nerds who follow me!
 
-- [irisdomain23](https://github.com/irisdomain23)
 - [24601](https://github.com/24601)
 - [cyber-ocelot](https://github.com/cyber-ocelot)
 - [S4IL21](https://github.com/S4IL21)
@@ -55,5 +54,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [dominob101](https://github.com/dominob101)
 - [Floresi0211](https://github.com/Floresi0211)
 - [muhsansattar](https://github.com/muhsansattar)
+- [AntonioViscomi](https://github.com/AntonioViscomi)
 
 I used the awesome [readme-scribe](https://github.com/muesli/readme-scribe) to create this README, and you can too!
