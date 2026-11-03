@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management &amp; Automation Platform (today)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (5 days ago)
 - [KriVaTri/ESPHome-Update-Manager](https://github.com/KriVaTri/ESPHome-Update-Manager) - ESPHome device update manager for Home Assistant (2 weeks ago)
 - [kejadlen/pro-tacts](https://github.com/kejadlen/pro-tacts) -  (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [githubnext/chopin](https://github.com/githubnext/chopin) - Let&#39;s compose rich plans together (1 month ago)
 - [PelagicaApp/pelagica](https://github.com/PelagicaApp/pelagica) - A modern web, desktop and TV client for Jellyfin (1 month ago)
 - [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) - ⚡️A native, local-first alternative to Logitech Options&#43;, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID&#43;&#43;. No account, no telemetry. (1 month ago)
-- [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API. (1 month ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
