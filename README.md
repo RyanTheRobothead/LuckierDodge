@@ -6,15 +6,15 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (1 day ago)
-- [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (1 day ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (2 days ago)
+- [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (2 days ago)
 - [RyanTheRobothead/schedule_bot](https://github.com/RyanTheRobothead/schedule_bot) - Discord bot for scheduling TTRPG / game nights (3 weeks ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (6 months ago)
 - [RyanTheRobothead/openscad_designs](https://github.com/RyanTheRobothead/openscad_designs) - Misc OpenSCAD Designs for small projects/around the house. (6 months ago)
 - [AD-SDL/MADSci](https://github.com/AD-SDL/MADSci) - Main repository for the Modular Autonomous Discovery for Science (MADSci) Framework (6 months ago)
 - [RyanTheRobothead/skills](https://github.com/RyanTheRobothead/skills) -  (6 months ago)
 - [Jubilee-CSL/jubilee-blender-twin](https://github.com/Jubilee-CSL/jubilee-blender-twin) - Digital twin for animation of Jubilee 3D (7 months ago)
-- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (7 months ago)
+- [AD-SDL/opal_applications](https://github.com/AD-SDL/opal_applications) - Applications for OPAL (8 months ago)
 - [RyanTheRobothead/website](https://github.com/RyanTheRobothead/website) - My personal website (8 months ago)
 
 ### ✍ My recent writing and projects
@@ -32,8 +32,8 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
-- [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect) - Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606.26428) (1 day ago)
-- [argonrobotics-ai/alloy](https://github.com/argonrobotics-ai/alloy) - Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12. (1 day ago)
+- [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect) - Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606.26428) (2 days ago)
+- [argonrobotics-ai/alloy](https://github.com/argonrobotics-ai/alloy) - Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12. (2 days ago)
 - [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) - A personal home screen for Samsung The Frame. A starting point to fork and adapt. (2 weeks ago)
 - [MaxGramser/homeassistant_espscreen](https://github.com/MaxGramser/homeassistant_espscreen) - Tessera: beautiful, easy touch screens for Home Assistant on affordable ESP32 panels, 2.8 to 10.1 inch (CYD, Guition, Waveshare). Drag-and-drop editor, no YAML, no MQTT. (2 weeks ago)
 - [PatchMon/PatchMon](https://github.com/PatchMon/PatchMon) - Linux Patch Management &amp; Automation Platform (3 weeks ago)
