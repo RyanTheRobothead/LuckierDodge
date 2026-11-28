@@ -6,7 +6,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### 💻 Stuff I've been working on
 
-- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (3 days ago)
+- [RyanTheRobothead/nix-config](https://github.com/RyanTheRobothead/nix-config) - Nix configuration (today)
 - [RyanTheRobothead/dockerfiles](https://github.com/RyanTheRobothead/dockerfiles) - One repo to rule the Dockerfiles, one repo to find them, one repo to bring them all, and on the server bind them. (3 days ago)
 - [RyanTheRobothead/schedule_bot](https://github.com/RyanTheRobothead/schedule_bot) - Discord bot for scheduling TTRPG / game nights (3 weeks ago)
 - [AD-SDL/pf400_module](https://github.com/AD-SDL/pf400_module) - Driver for communicating with the PF400  (6 months ago)
@@ -32,6 +32,7 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 
 ### ⭐ Things I've starred lately
 
+- [marceldale/nest-mini-v2-voice](https://github.com/marceldale/nest-mini-v2-voice) - Open voice satellite board for the Google Nest Mini (2nd gen): local Home Assistant voice assistant with ESP32-S3 &#43; XMOS XU316, ESPHome, Voice PE compatible. Open hardware, prototype stage. (today)
 - [kushal2000/play2perfect](https://github.com/kushal2000/play2perfect) - Official code release for Play2Perfect: a 2-stage RL pipeline for contact-rich assembly (arXiv 2606.26428) (3 days ago)
 - [argonrobotics-ai/alloy](https://github.com/argonrobotics-ai/alloy) - Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12. (3 days ago)
 - [nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame) - A personal home screen for Samsung The Frame. A starting point to fork and adapt. (2 weeks ago)
@@ -41,7 +42,6 @@ You can learn more about me at my [website](https://ryandlewis.dev), or check ou
 - [KriVaTri/ESPHome-Update-Manager](https://github.com/KriVaTri/ESPHome-Update-Manager) - ESPHome device update manager for Home Assistant (1 month ago)
 - [kejadlen/pro-tacts](https://github.com/kejadlen/pro-tacts) -  (1 month ago)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web (1 month ago)
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100&#43; languages, with a router that picks the right checkpoint per request. (2 months ago)
 
 ### 🤓 Some fellow nerds who follow me!
 
